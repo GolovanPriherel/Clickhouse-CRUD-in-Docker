@@ -1,0 +1,11 @@
+# packages
+venv
+.idea
+__pycache__/
+data/
+
+# Files
+
+
+# Others
+*.DS_Store
